@@ -1,5 +1,8 @@
 # 📚 Go REST API: Clean Architecture
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ersozberk/book-api/edit/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-tr-green.svg)](https://github.com/ersozberk/book-api/edit/main/README-tr.md)
+
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)
 ![Architecture](https://img.shields.io/badge/Architecture-Modular%20%2F%20Internal-orange)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Zero-brightgreen)
